@@ -1,4 +1,4 @@
 # techniques and library used 
-react
-react-icon
-tailwind
+- react
+- react-icon
+- tailwind
